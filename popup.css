@@ -1,0 +1,28 @@
+
+body {
+    background-color: #000000;
+    /* opacity: 0.8; */
+    color: #ffffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 450px;
+    height: auto;
+    display: block;
+    justify-content: center;
+    text-justify: auto;
+    border-radius: 5px;
+    border-style:dashed;
+    border-width: 3px;
+    
+}
+
+p {
+    display: inner-block;
+    justify-content: center;
+    margin:auto;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    text-align: center;
+
+}

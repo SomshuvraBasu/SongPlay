@@ -1,0 +1,20 @@
+{
+    "name":"SongPlay",
+    "description":"A Chrome extension that plays a random video song from user defined songs in a small popup.Currently playing some Bangla Tracks",
+    "version":"1.0",
+    "author":"Somshuvra Basu",
+    "manifest_version":2 ,
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "128": "icon.png"
+    },
+    "permissions": ["activeTab"]
+
+
+
+
+
+}
