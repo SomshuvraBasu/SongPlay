@@ -32,7 +32,6 @@ print(idDict)
 #delete duplicate video ids as first video of playlist appears multiple times
 idList=list(idDict.keys())
 
-#write video ids to a json file with video titles as values
-with open('play.json', 'w+') as outfile:
+#write video ids, video titles to a json file where video ids can be fetched as keys and video titles as values
+with open('play.json', 'w') as outfile:
     json.dump(idDict, outfile)
-
