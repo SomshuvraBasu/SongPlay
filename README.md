@@ -1,6 +1,6 @@
 # SongPlay Chrome Extension
 
-![SongPlay](extension_screenshot.png)
+<!--![SongPlay](extension_screenshot.png)-->
 
 SongPlay is a Chrome extension developed by Somshuvra Basu to serve as a pop-up song-video player that aids in brainstorming sessions. With SongPlay, you can easily access your favorite songs from a YouTube playlist, allowing you to create a vibrant and creative environment for your brainstorming activities.
 Currently playing some Bengali Tracks.
